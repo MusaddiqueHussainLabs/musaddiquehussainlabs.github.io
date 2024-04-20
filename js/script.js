@@ -64,7 +64,7 @@ ScrollReveal().reveal('.home-content p, .about-content', {
 
 /*==================== typed js ====================*/
 const typed = new Typed('.multiple-text',{
-    strings: ['Jr. Data Scientist', 'Machine Learning Engineer', 'Web Developer', 'Blogger'],
+    strings: ['Jr. Data Scientist', 'Machine Learning Engineer', 'Web Developer', 'Chatbot Developer', 'Live-Chat App Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
